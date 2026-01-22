@@ -1,6 +1,6 @@
-# .SlpJvaCrdGm
+# SlapJack Card Game
 
-- A simulation of the classic slap card game with multiple combinations (rank pairs, face cards, etc.)
+- A simulation of the classic Slap card game that models core gameplay mechanics, evaluating multiple card combinations—such as rank pairs and face cards—to accurately determine valid slaps and game outcomes.
 
 # AUTHOR INFO
 
