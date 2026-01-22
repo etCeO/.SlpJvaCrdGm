@@ -12,9 +12,9 @@
 
 ## Usage
 
-- Compile the program using the appropriate compiler for the programming language used.
-- Run the executable to start the game simulation.
-- The program executes the game logic automatically (or through user interaction, depending on implementation) and displays the results of each turn and slap evaluation.
+1. Compile the program using the appropriate compiler for the programming language used.
+2. Run the executable to start the game simulation.
+3. The program executes the game logic automatically (or through user interaction, depending on implementation) and displays the results of each turn and slap evaluation.
 
 ## Input Format
 
